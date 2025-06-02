@@ -16,3 +16,4 @@ public class Bank_customer {
         System.out.println("Customer Address: " + custAddress);
         System.out.println();
     }
+}
